@@ -1,6 +1,6 @@
 # HellasAIO
 
-This is a Greek Sneaker bot I wrote over the summer, and a bit after. It works very well, however, the Greek market is quite small, they rarely drop, and the cancels on the main site, BuzzSneakers, are unbareable. Hopefully, someone can build off this, learn, and make a bot of their own. It was a great experience building this myself.
+This is a Greek Sneaker bot I wrote over the summer, and a bit after. It works very well, however, the Greek market is quite small, they rarely drop, and the cancels on the main site, BuzzSneakers, are unbearable. Hopefully, someone can build off this, learn, and make a bot of their own. It was a great experience building this myself.
 
 What it includes:
 - Modified @pristine#1862 bot base
