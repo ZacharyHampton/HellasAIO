@@ -1,0 +1,15 @@
+fastapi
+requests
+python-dotenv
+pydantic
+pymongo
+certifi
+uvicorn
+python-jose[cryptography]
+uvicorn[standard]
+sentry-sdk
+pymongo[srv]
+cloudscraper
+fastapi-jwt-auth
+aiohttp
+starlette
