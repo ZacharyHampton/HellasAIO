@@ -9,3 +9,5 @@ What it includes:
 - Auth API
 - Fuel Monitor (with cloudflare support)
 - BuzzSneakers Monitor
+
+Hopefully, someone can build off this, learn, and make a bot of their own.
