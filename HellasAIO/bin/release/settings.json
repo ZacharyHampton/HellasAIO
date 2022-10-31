@@ -1,0 +1,13 @@
+{
+  "key": "",
+  "discord_webhook": "",
+  "allowPublicWebhook": true,
+  "captcha": {
+    "2captcha": {
+      "key": ""
+    },
+    "capmonster": {
+      "key": ""
+    }
+  }
+}
