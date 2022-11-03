@@ -12,7 +12,7 @@ What it includes:
 - Fuel Monitor (with cloudflare support)
 - BuzzSneakers Monitor
 
-# Guide
+# Bot CLI Guide
 
 You must remove the auth + quicktask websocket in order for it to run. Then, you gotta compile it. (go1.16.15)
 
