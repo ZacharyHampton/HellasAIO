@@ -14,7 +14,7 @@ What it includes:
 
 # Guide
 
-You must remove the auth + quicktask websocket in order for it to run. Then, you gotta compile it.(go1.16.15)
+You must remove the auth + quicktask websocket in order for it to run. Then, you gotta compile it. (go1.16.15)
 
 For a running guide, here it is: https://hellasaio.gitbook.io/hellasaio-guide/
 
